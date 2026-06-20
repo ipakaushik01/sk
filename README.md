@@ -1,111 +1,552 @@
-{ "hero": { "badge": "Technical SEO | GEO | AI Search Optimization | Content Strategy", "headline": "Building Search Visibility", "headlineAccent": "for the AI Era", "tagline": "I help businesses increase organic traffic, improve search visibility, and generate qualified leads through Technical SEO, Generative Engine Optimization (GEO), AI SEO, and Content Strategy. My approach combines technical excellence, content systems, and AI search optimization to help brands succeed across Google, ChatGPT, Gemini, Perplexity, and emerging AI-powered search platforms.", "stats": [ { "label": "Organic Impressions", "value": "8.4M+" }, { "label": "Average CTR Growth", "value": "5.2%" }, { "label": "Campaign ROI", "value": "+420%" } ], "portraitAlt": "Aman SEO Consultant", "terminalLines": [ "INITIALIZING_SEARCH_SYSTEM...", "AMAN_SEO_CONSULTANT.EXE", "ORGANIC_GROWTH_PROTOCOL_ACTIVE" ] },
-"systemStatus": { "statusLabel": "System Status: AI_SEARCH_ACTIVE", "scanningText": "Generative Engine Optimization (GEO)", "tag1": "ENTITY_OPTIMIZATION", "tag2": "SEARCH_VISIBILITY_SYNCED" },
-"services": [ { "id": "geo-seo", "name": "Generative Engine Optimization (GEO)", "short": "AI Search Visibility", "desc": "Optimize your brand for ChatGPT, Gemini, Perplexity, Claude, and AI-powered search experiences. We improve entity recognition, topical authority, structured data, and citation visibility to increase the likelihood of being referenced in AI-generated answers.", "icon": "neurology", "status": "SYSTEM_ACTIVE", "metric": "AI Citation Growth" },
-{
-  "id": "ai-seo",
-  "name": "AI SEO Optimization",
-  "short": "Search Intelligence",
-  "desc": "Leverage AI-powered insights to uncover content opportunities, identify search trends, improve keyword targeting, and optimize content strategies that align with evolving search algorithms.",
-  "icon": "psychology",
-  "status": "ONLINE",
-  "metric": "Search Opportunity Analysis"
-},
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>S.K Engineers & Contractors</title>
 
-{
-  "id": "technical-seo",
-  "name": "Technical SEO & Site Architecture",
-  "short": "Crawl & Index Optimization",
-  "desc": "Improve crawlability, indexability, website speed, Core Web Vitals, structured data, XML sitemaps, and overall site architecture to maximize search engine performance.",
-  "icon": "settings_input_component",
-  "status": "SYNCHRONIZED",
-  "metric": "Technical Health Score"
-},
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
-{
-  "id": "on-page-seo",
-  "name": "On-Page SEO",
-  "short": "Content Optimization",
-  "desc": "Optimize page structure, keyword targeting, metadata, internal linking, image SEO, and content quality to improve rankings and user engagement.",
-  "icon": "article",
-  "status": "OPTIMIZED",
-  "metric": "Page Performance"
-},
+<style>
 
-{
-  "id": "off-page-seo",
-  "name": "Authority Building & Digital PR",
-  "short": "Authority Growth",
-  "desc": "Strengthen your website's authority through strategic link acquisition, digital PR campaigns, brand mentions, and trust-building signals that improve long-term rankings.",
-  "icon": "hub",
-  "status": "ACTIVE",
-  "metric": "Authority Growth"
-},
-
-{
-  "id": "local-seo",
-  "name": "Local SEO",
-  "short": "Local Search Growth",
-  "desc": "Increase visibility in local search results through Google Business Profile optimization, citation management, review strategies, and geo-targeted content.",
-  "icon": "distance",
-  "status": "LOCAL_ACTIVE",
-  "metric": "Local Pack Rankings"
-},
-
-{
-  "id": "ecommerce-seo",
-  "name": "E-Commerce SEO",
-  "short": "Revenue-Focused SEO",
-  "desc": "Optimize Shopify and WooCommerce stores with advanced product SEO, category page optimization, structured data, internal linking, and conversion-focused search strategies.",
-  "icon": "shopping_cart",
-  "status": "OPTIMIZED",
-  "metric": "Revenue Growth"
-},
-
-{
-  "id": "seo-audit",
-  "name": "SEO Audits",
-  "short": "Growth Opportunity Analysis",
-  "desc": "Comprehensive audits covering technical SEO, content quality, site architecture, backlink profiles, and AI search readiness with actionable recommendations.",
-  "icon": "troubleshoot",
-  "status": "READY",
-  "metric": "Growth Roadmap"
-},
-
-{
-  "id": "content-seo",
-  "name": "Content SEO & Topical Authority",
-  "short": "Semantic Content Strategy",
-  "desc": "Build sustainable rankings through strategic content planning, topic clusters, semantic optimization, entity-based SEO, and authority-building content ecosystems.",
-  "icon": "menu_book",
-  "status": "ACTIVE",
-  "metric": "Topical Authority"
-},
-
-{
-  "id": "seo-consulting",
-  "name": "SEO Consulting & Growth Strategy",
-  "short": "Strategic SEO Leadership",
-  "desc": "Receive expert SEO guidance, growth roadmaps, technical recommendations, and long-term strategies aligned with your business objectives.",
-  "icon": "forum",
-  "status": "CONSULTATION_READY",
-  "metric": "ROI Optimization"
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
 }
-],
-"philosophy": [ { "icon": "neurology", "title": "AI Search Visibility", "description": "Search is rapidly evolving beyond traditional rankings. I optimize websites for AI-powered search engines, entity graphs, and generative platforms to increase brand visibility where users are increasingly finding answers.", "accent": "cyan" },
-{
-  "icon": "database",
-  "title": "Technical Excellence",
-  "description": "Strong SEO begins with a technically sound foundation. I focus on crawl efficiency, Core Web Vitals, structured data, and scalable architecture that supports long-term organic growth.",
-  "accent": "purple"
-},
 
-{
-  "icon": "speed",
-  "title": "Authority & Trust",
-  "description": "Long-term rankings are built through trust. I combine topical authority, strategic content systems, and quality link acquisition to create sustainable competitive advantages.",
-  "accent": "lime"
+body{
+background:#f8f9fa;
+color:#222;
 }
-],
-"timeline": [ { "year": "2025", "title": "SaaS Growth Campaign", "result": "+312% Organic Traffic", "description": "Led technical SEO restructuring and topical authority development that significantly increased qualified organic traffic." }, { "year": "2025", "title": "E-Commerce SEO Scale", "result": "+186% Revenue Growth", "description": "Optimized product architecture, category pages, and structured data to drive revenue-focused organic growth." }, { "year": "2026", "title": "AI Search Visibility Project", "result": "Featured Across AI Search Platforms", "description": "Implemented GEO strategies that improved visibility and citation frequency across generative search engines." } ],
-"contact": { "email": "ipakaushik01@gmail.com", "linkedinUrl": "https://www.linkedin.com/in/ipakaushik24", "linkedinDisplay": "ipakaushik", "cta": "Book a free SEO consultation and receive a custom growth roadmap tailored to your business." },
-"footerText": "©2026 AMAN // TECHNICAL SEO · GEO SPECIALIST · AI SEARCH OPTIMIZATION" }
+
+.container{
+width:90%;
+max-width:1200px;
+margin:auto;
+}
+
+/* HEADER */
+
+header{
+background:#0f172a;
+padding:20px 0;
+position:sticky;
+top:0;
+z-index:1000;
+}
+
+nav{
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+.logo{
+color:#fff;
+font-size:28px;
+font-weight:700;
+}
+
+nav ul{
+display:flex;
+list-style:none;
+gap:30px;
+}
+
+nav ul li a{
+color:white;
+text-decoration:none;
+font-weight:500;
+}
+
+/* HERO */
+
+.hero{
+height:90vh;
+background:
+linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.65)),
+url('https://images.unsplash.com/photo-1504307651254-35680f356dfd');
+background-size:cover;
+background-position:center;
+display:flex;
+align-items:center;
+}
+
+.hero-content{
+color:white;
+max-width:700px;
+}
+
+.hero h1{
+font-size:58px;
+margin-bottom:20px;
+}
+
+.hero p{
+font-size:20px;
+margin-bottom:30px;
+line-height:1.6;
+}
+
+.btn{
+display:inline-block;
+background:#f97316;
+color:white;
+padding:15px 35px;
+text-decoration:none;
+border-radius:5px;
+font-weight:600;
+}
+
+/* ABOUT */
+
+section{
+padding:80px 0;
+}
+
+.section-title{
+text-align:center;
+margin-bottom:50px;
+font-size:40px;
+}
+
+.about-grid{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:50px;
+align-items:center;
+}
+
+.about img{
+width:100%;
+border-radius:10px;
+}
+
+/* STATS */
+
+.stats{
+background:#0f172a;
+color:white;
+}
+
+.stats-grid{
+display:grid;
+grid-template-columns:repeat(4,1fr);
+gap:20px;
+text-align:center;
+}
+
+.stat h2{
+font-size:50px;
+color:#f97316;
+}
+
+/* SERVICES */
+
+.services-grid{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:30px;
+}
+
+.card{
+background:white;
+padding:30px;
+border-radius:10px;
+box-shadow:0 5px 20px rgba(0,0,0,.08);
+transition:.3s;
+}
+
+.card:hover{
+transform:translateY(-8px);
+}
+
+.card h3{
+margin-bottom:15px;
+}
+
+/* PROJECTS */
+
+.projects{
+background:#f1f5f9;
+}
+
+.project-grid{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:25px;
+}
+
+.project{
+background:white;
+border-radius:10px;
+overflow:hidden;
+}
+
+.project img{
+width:100%;
+height:220px;
+object-fit:cover;
+}
+
+.project-content{
+padding:20px;
+}
+
+/* TESTIMONIALS */
+
+.testimonial-grid{
+display:grid;
+grid-template-columns:repeat(3,1fr);
+gap:25px;
+}
+
+.testimonial{
+background:white;
+padding:30px;
+border-radius:10px;
+box-shadow:0 5px 20px rgba(0,0,0,.08);
+}
+
+/* CTA */
+
+.cta{
+background:#f97316;
+color:white;
+text-align:center;
+}
+
+.cta h2{
+font-size:42px;
+margin-bottom:20px;
+}
+
+/* CONTACT */
+
+.contact-grid{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:40px;
+}
+
+input,textarea{
+width:100%;
+padding:15px;
+margin-bottom:15px;
+border:1px solid #ddd;
+border-radius:5px;
+}
+
+button{
+background:#0f172a;
+color:white;
+padding:15px 30px;
+border:none;
+cursor:pointer;
+}
+
+/* FOOTER */
+
+footer{
+background:#0f172a;
+color:white;
+text-align:center;
+padding:30px;
+}
+
+@media(max-width:768px){
+
+.hero h1{
+font-size:38px;
+}
+
+.about-grid,
+.contact-grid,
+.stats-grid,
+.services-grid,
+.project-grid,
+.testimonial-grid{
+grid-template-columns:1fr;
+}
+
+nav ul{
+display:none;
+}
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<div class="container">
+<nav>
+<div class="logo">S.K Engineers</div>
+
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">About</a></li>
+<li><a href="#">Services</a></li>
+<li><a href="#">Projects</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+</nav>
+</div>
+</header>
+
+<section class="hero">
+<div class="container">
+<div class="hero-content">
+
+<h1>Building Excellence, Delivering Trust</h1>
+
+<p>
+Leading Civil Engineering & Construction Company delivering
+Industrial, Commercial & Residential Projects across India.
+</p>
+
+<a href="#" class="btn">Request a Quote</a>
+
+</div>
+</div>
+</section>
+
+<section class="about">
+<div class="container">
+
+<h2 class="section-title">About Us</h2>
+
+<div class="about-grid">
+
+<div>
+<h3>Who We Are</h3>
+
+<p>
+S.K Engineers & Contractors is a trusted construction and
+engineering company committed to delivering high-quality
+infrastructure projects with safety, innovation and excellence.
+</p>
+
+<br>
+
+<p>
+From industrial facilities to residential developments,
+our experienced team ensures timely and cost-effective project
+execution.
+</p>
+</div>
+
+<img src="https://images.unsplash.com/photo-1541888946425-d81bb19240f5">
+
+</div>
+</div>
+</section>
+
+<section class="stats">
+
+<div class="container">
+
+<div class="stats-grid">
+
+<div class="stat">
+<h2>150+</h2>
+<p>Projects Completed</p>
+</div>
+
+<div class="stat">
+<h2>20+</h2>
+<p>Years Experience</p>
+</div>
+
+<div class="stat">
+<h2>50+</h2>
+<p>Equipment Units</p>
+</div>
+
+<div class="stat">
+<h2>100%</h2>
+<p>Client Satisfaction</p>
+</div>
+
+</div>
+</div>
+</section>
+
+<section>
+
+<div class="container">
+
+<h2 class="section-title">Our Services</h2>
+
+<div class="services-grid">
+
+<div class="card">
+<h3>Industrial Construction</h3>
+<p>Factories, warehouses, plants and industrial facilities.</p>
+</div>
+
+<div class="card">
+<h3>Commercial Projects</h3>
+<p>Office buildings, retail complexes and commercial spaces.</p>
+</div>
+
+<div class="card">
+<h3>Residential Construction</h3>
+<p>Apartments, villas and residential developments.</p>
+</div>
+
+<div class="card">
+<h3>Civil Engineering</h3>
+<p>Roads, drainage systems and infrastructure works.</p>
+</div>
+
+<div class="card">
+<h3>Project Management</h3>
+<p>Planning, execution and quality control services.</p>
+</div>
+
+<div class="card">
+<h3>Turnkey Solutions</h3>
+<p>End-to-end construction project delivery.</p>
+</div>
+
+</div>
+
+</div>
+</section>
+
+<section class="projects">
+
+<div class="container">
+
+<h2 class="section-title">Featured Projects</h2>
+
+<div class="project-grid">
+
+<div class="project">
+<img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab">
+<div class="project-content">
+<h3>Industrial Plant</h3>
+<p>Large-scale industrial infrastructure project.</p>
+</div>
+</div>
+
+<div class="project">
+<img src="https://images.unsplash.com/photo-1511818966892-d7d671e672a2">
+<div class="project-content">
+<h3>Commercial Complex</h3>
+<p>Modern commercial development.</p>
+</div>
+</div>
+
+<div class="project">
+<img src="https://images.unsplash.com/photo-1460317442991-0ec209397118">
+<div class="project-content">
+<h3>Residential Township</h3>
+<p>Premium housing project.</p>
+</div>
+</div>
+
+</div>
+
+</div>
+</section>
+
+<section>
+
+<div class="container">
+
+<h2 class="section-title">Client Testimonials</h2>
+
+<div class="testimonial-grid">
+
+<div class="testimonial">
+★★★★★
+<br><br>
+"S.K Engineers delivered our project on time and exceeded expectations."
+<br><br>
+<strong>Industrial Client</strong>
+</div>
+
+<div class="testimonial">
+★★★★★
+<br><br>
+"Outstanding quality and professionalism throughout the project."
+<br><br>
+<strong>Commercial Developer</strong>
+</div>
+
+<div class="testimonial">
+★★★★★
+<br><br>
+"Reliable partner with excellent technical expertise."
+<br><br>
+<strong>Project Consultant</strong>
+</div>
+
+</div>
+
+</div>
+</section>
+
+<section class="cta">
+
+<div class="container">
+
+<h2>Let's Build Something Great Together</h2>
+
+<p>Contact our team for your next construction project.</p>
+
+<br>
+
+<a href="#" class="btn">Get Free Consultation</a>
+
+</div>
+</section>
+
+<section>
+
+<div class="container">
+
+<h2 class="section-title">Contact Us</h2>
+
+<div class="contact-grid">
+
+<div>
+<h3>S.K Engineers & Contractors</h3>
+
+<br>
+
+<p>📞 +91 XXXXX XXXXX</p>
+<p>📧 info@skengineers.com</p>
+<p>📍 Punjab, India</p>
+</div>
+
+<form>
+
+<input type="text" placeholder="Your Name">
+
+<input type="email" placeholder="Email Address">
+
+<input type="text" placeholder="Phone Number">
+
+<textarea rows="5" placeholder="Your Message"></textarea>
+
+<button>Submit Inquiry</button>
+
+</form>
+
+</div>
+
+</div>
+</section>
+
+<footer>
+© 2025 S.K Engineers & Contractors | All Rights Reserved
+</footer>
+
+</body>
+</html>
